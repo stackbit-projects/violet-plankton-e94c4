@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: 'Surhail AIRBNB Ultra HD 4k .1,000$ per minute. Love You mom'
     content: 
-      # Paga ahora y no hay revoluciones.
+      # Paga ahora y no hay revoluciones. Ahhhhhhh
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
