@@ -2,7 +2,6 @@
 title: Nature Magazine
 subtitle: Editorial Design
 date: '2021-01-10'
-thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
