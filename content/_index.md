@@ -5,10 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: 'Surhail AIRBNB Ultra HD 4k .1,000$ per minute.'
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: |
+      # Paga ahora y no hay revoluciones.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
