@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: 'Surhail AIRBNB Ultra HD 4k .1,000$ per minute.'
+    title: 'Surhail AIRBNB Ultra HD 4k .1,000$ per minute. Love You mom'
     content: |
       # Paga ahora y no hay revoluciones.
   - type: portfolio_section
